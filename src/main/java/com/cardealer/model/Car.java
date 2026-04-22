@@ -1,4 +1,4 @@
-package com.cardealer.cardealer_api.model;
+package com.cardealer.model;
 
 public class Car {
 
@@ -7,7 +7,6 @@ public class Car {
     private String model;
     private double price;
     private int mileage;
-
     private int displacement;
     private String drivetrain;
     private int power;
